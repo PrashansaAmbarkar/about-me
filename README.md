@@ -16,8 +16,8 @@ You may also need to learn :
 - Markdown
 
 ## Resourses Recommended
-* [Codecademy] (https://www.codecademy.com/)
-* [W3Schools] (https://www.w3schools.com/)
-* [Tutorialspoint] (https://www.tutorialspoint.com/html/index.htm)
+* [Codecademy](https://www.codecademy.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
 
 ## Contributors
