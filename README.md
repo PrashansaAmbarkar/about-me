@@ -11,4 +11,9 @@ What are the tools you will be needing?
 
 - Visual studio Code
 
+You can also need to learn :
+- JavaScript
+- HMTL
+- Markdown
+
 ## Resourses Recommended
