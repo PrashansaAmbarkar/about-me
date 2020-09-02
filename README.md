@@ -7,7 +7,8 @@
 This page will help you learn how to create Web pages.
 ## Tools Recommended
 What are the tools you will be needing?
--Github
--Visual studio Code
+- Github
+
+- Visual studio Code
 
 ## Resourses Recommended
