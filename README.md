@@ -4,6 +4,10 @@
 
 * Host Repository: https://prashansaambarkar.github.io/about-me/
 ## About
-This page is used for practicing how to devolope the Web Applications
+This page will help you learn how to create Web pages.
 ## Tools Recommended
+What are the tools you will be needing?
+-Github
+-Visual studio Code
+
 ## Resourses Recommended
