@@ -1,4 +1,4 @@
-# ABOUT-ME
+# about-me
 ## Repository Links
 * Source Repository: [https://github.com/PrashansaAmbarkar/about-me/blob/master/README.md](https://github.com/PrashansaAmbarkar/about-me/blob/master/README.md)
 
