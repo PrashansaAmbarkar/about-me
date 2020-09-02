@@ -22,4 +22,4 @@ You may also need to learn :
 
 ## Contributors
 Sai Prashansa Ambarkar, Masters in Applied Computer Science. 
-![Profile Picture](IMG_4088.jpg)
+![IMG_4088.jpg](IMG_4088.jpg)
