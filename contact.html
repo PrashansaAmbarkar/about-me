@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>About Me</title>
+    <style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 20px;
+        background-color: #57c4e5;
+      }
+      li {
+        padding: 10px;
+        display: inline;
+      }
+      li a:hover {
+        padding: 10px;
+        background-color: #ffffff;
+      }
+      body {
+      background-image: url('nyc.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
+    footer{
+      background-color: #57c4e5;
+      padding: 1px;
+
+    }
+
+    article{
+      width: 98%;
+      background-color:#00304999;
+      padding: 10px;
+      color:white;
+    }
+  </style>
+  </head>
+  <body>
+    <article>
+      <ul style="font-size:20px">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="calculator.html">CONVERTOR</a></li>
+        </ul>
+        <img src="dp.JPG" alt="display pic" style="border-radius: 50%; top: 4%; right: 3%; position: absolute" width="50" height="50">
+    <h1 style="text-align: center;">CONTACT</h1>
+    <form action="#">
+      <p>First Name:  &nbsp;&nbsp;&nbsp;
+        <input type="text" name="firstname"></p>
+      <p>Last Name:   &nbsp;&nbsp;&nbsp;
+        <input type="text" name="lastname"></p>
+      <p>E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="email"></p>
+      <p>Gender:<br>
+        <input type="radio" name="gender" value="Male"/>Male<br>
+        <input type="radio" name="gender" value="Female"/>Female<br>
+        <input type="radio" name="gender" value="Other"/>Other<br>
+      </p>
+      <textarea name="About Yourself" id="Introduction" cols="30" rows="10">About Yourself</textarea><br>
+      <input type="submit" name="submit" onclick="alert('Thank you for Registering')" value="Register">
+    </form>
+ </article>
+ <footer>
+   <p><u>Author:</u> Sai Prashansa Ambarkar</p>
+    <p><u>Background Image:</u> Photo of Brooklyn Bridge, New York, NY 10038. Shot on Iphone 11 Pro.</p>
+ </footer>
+  </body>
+</html>
