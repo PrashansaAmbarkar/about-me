@@ -1,0 +1,62 @@
+#param1{
+  color:red;
+}
+
+#param2{
+  color:black;
+  font-family:Comic Sans MS;
+  font-size: 18px;
+}
+
+.ul-style{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    background-color: #57c4e5;
+    color: white;
+  }
+
+.li-style {
+  padding: 10px;
+  display: inline;
+}
+
+li a:hover {
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+table{
+  width:75%;
+}
+
+table, th, td {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+article{
+width: 48%;
+background-color:#00304999;
+padding: 10px;
+color:white;
+}
+
+aside{
+width:48%;
+background-color:#eae2b750;
+float: right;
+padding: 10px;
+}
+
+body {
+background-image: url('nyc.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+footer{
+background-color: #57c4e5;
+padding: 1px;
+}
