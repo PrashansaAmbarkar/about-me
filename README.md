@@ -24,3 +24,9 @@ You may also need to learn :
 Sai Prashansa Ambarkar, Masters in Applied Computer Science. 
 
 ![](DiplayPic.JPG)
+
+## References used in HTML
+* [https://github.com/PrashansaAmbarkar](https://github.com/PrashansaAmbarkar)
+* [https://www.facebook.com/prashansa.ambarkar](https://www.facebook.com/prashansa.ambarkar)
+* [https://www.youtube.com/watch?v=sdj4tcoORjY&feature=emb_title](https://www.youtube.com/watch?v=sdj4tcoORjY&feature=emb_title)
+* [https://www.w3schools.com/](https://www.w3schools.com/)
