@@ -1,3 +1,30 @@
+.container-1{
+  border: black 1px solid;
+  display: flex;
+  margin: 0 auto;
+  width: 75%;
+  flex-direction: column;
+}
+
+.container-inner-box{
+  border: white 1px solid;
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.container-inner-element{
+  border: white 1px solid;
+  padding: 0px 10px;
+  justify-content: left;
+  font-size: 20px;
+}
+
+.local-style{
+  width: 50%;
+}
+
 #param1{
   color:red;
 }
@@ -60,3 +87,4 @@ footer{
 background-color: #57c4e5;
 padding: 1px;
 }
+
